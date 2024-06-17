@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chat App"
-              description="An online text chat app is a digital platform that allows users to communicate with each other in real-time via text messages. These apps typically facilitate one-on-one conversations, group chats, or even public chat rooms, depending on their features. Users can send messages, emojis, and sometimes even files or images through these platforms."
+              description="An online platform that lets people send text messages to each other instantly. Users can chat one-on-one, in groups, or in public chat rooms. They can also share emojis, files, and images, depending on the app's features."
               // ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://yashbari-chatapp.netlify.app"
             />
@@ -37,7 +37,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="FileShare"
-              description="A file-sharing website and app facilitate the transfer of files between users, enabling seamless exchange of documents, images, videos, and more. Users can upload files to the platform, generating a unique link or code that they can share with others for download. These platforms often prioritize security and privacy, offering encryption and password protection features to safeguard sensitive data."
+              description="
+              A file-sharing website and app make it easy for users to share files like documents, images, and videos. You can upload files, get a code, and share it with others to download. These platforms focus on security, providing features like encryption and password protection to keep your data safe."
               // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://yashbarisharefiles.netlify.app"
             />
@@ -48,8 +49,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Secure Image Verification"
-              description="
-              Captcha Your Image is a cutting-edge website dedicated to providing top-notch image-based CAPTCHA solutions. With a focus on enhancing online security, this platform offers a robust system that utilizes images to verify human users, preventing automated bots from accessing websites and services. Through its innovative technology, Captcha Image ensures a seamless user experience while maintaining high levels of protection against malicious activities such as spamming, account takeover, and data breaches."
+              description="Captcha Your Image is a top website that offers advanced image-based CAPTCHA solutions to keep websites secure. It uses pictures to confirm human users and block bots, protecting against spam, hacking, and data theft, while providing an easy user experience."
               // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://doctor-image-screen.netlify.app"              
             />
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="QR Code Generator"
-              description="A top QR code generator website offers a convenient and efficient tool for creating QR codes quickly and easily. Users can generate QR codes for various purposes such as sharing URLs, contact information, Wi-Fi credentials, or even payment links. These websites typically provide customizable options such as size, color, and design to tailor the QR code to specific needs. Additionally, they often support different formats for downloading the generated QR codes, ensuring compatibility with a wide range of devices and applications."
+              description="A top QR code generator website makes it easy to create QR codes quickly for things like sharing links. You can download the QR codes in different formats, so they work with many devices and apps."
               // ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://yashbariqrcodegenerator.netlify.app"
             />
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="CipherGuard: Secure Communication Platform"
-              description="CipherGuard is an end-to-end message security website and app designed to safeguard your conversations with military-grade encryption. With seamless integration across web and mobile platforms, CipherGuard ensures that your messages remain confidential from sender to receiver. Our advanced encryption protocols guarantee that only you and your intended recipients can access the content of your communications, providing peace of mind in an era of digital privacy concerns. Whether you're exchanging sensitive information with colleagues or chatting with loved ones, CipherGuard prioritizes your data protection."
+              description="CipherGuard is a website and app that keeps your messages safe with military-grade encryption. It works on both web and mobile, ensuring your chats stay private between you and your recipients. Whether you're sharing important info or chatting with friends, CipherGuard protects your data."
               // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               demoLink="https://yashbarimessagesend.netlify.app"
             />
