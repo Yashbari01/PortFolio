@@ -1,4 +1,4 @@
-### Yash Bari's Portfolio
+### Yash Bari Portfolio
 
 ## Introduction
 
