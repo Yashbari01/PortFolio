@@ -11,6 +11,8 @@
 # production
 /build
 /build1
+/build11
+# /build2
 
 # misc
 .DS_Store
